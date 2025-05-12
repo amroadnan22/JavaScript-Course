@@ -2,7 +2,7 @@
 
 This repository contains solutions to JavaScript assignments based on the [freeCodeCamp JavaScript Course](https://www.youtube.com/watch?v=jS4aFq5-91M&t=9315s). Each assignment focuses on fundamental concepts and DOM manipulation.
 
-- **Technologies Used**: HTML, CSS, JavaScript
+**Used**: HTML, CSS, JavaScript
 
 ## 📁 Assignments
 
