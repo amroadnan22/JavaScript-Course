@@ -13,7 +13,7 @@ This repository contains solutions to JavaScript assignments based on the [freeC
 ### 2. Blackjack Game
 
 - **Description**: A simple Blackjack game where the player can draw cards to reach a sum close to 21 without exceeding it.
-- 
+
 ## 🚀 Getting Started
 
 To run these projects locally:
