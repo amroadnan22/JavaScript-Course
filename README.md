@@ -12,7 +12,7 @@ This repository contains solutions to three JavaScript assignments, focusing on 
   - Reset functionality.
   - Real-time display updates.
 - **Technologies Used**: HTML, CSS, JavaScript
-- **Live Demo**: [View Here](https://amroadnan22.github.io/JavaScript-Course/The-first-assignment/Subway-Passenger-Counter.html)
+- **Live Demo**: [View Here](https://amroadnan22.github.io/JavaScript-Course/The first assignment/Subway Passenger Counter.html)
 
 ### 2. Simple Calculator
 
@@ -22,7 +22,7 @@ This repository contains solutions to three JavaScript assignments, focusing on 
   - Clear and delete functionalities.
   - Error handling for invalid operations.
 - **Technologies Used**: HTML, CSS, JavaScript
-- **Live Demo**: [View Here](https://amroadnan22.github.io/JavaScript-Course/The-second-assignment/Simple-Calculator.html)
+- **Live Demo**: [View Here](https://amroadnan22.github.io/JavaScript-Course/The second assignment/Blackjack.html)
 
 ## 🚀 Getting Started
 
