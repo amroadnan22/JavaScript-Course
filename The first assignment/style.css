@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("train station.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #000;
+    text-align: center;
+}
+  
+  .container {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 5% auto;
+    padding: 20px;
+    max-width: 400px;
+    border-radius: 10px;
+}
+  
+  #count {
+    font-size: 60px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+  
+  button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+  
+  #increment-btn {
+    background-color: #a30000;
+}
+  
+  #save-btn {
+    background-color: #006400;
+}
+  
+  h1, h2 {
+    margin: 10px 0;
+}
+  
