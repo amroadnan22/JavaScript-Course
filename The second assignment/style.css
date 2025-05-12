@@ -1,9 +1,12 @@
 body {
-  background-color: #0b6623;
-  color: white;
-  font-family: Arial, sans-serif;
-  text-align: center;
+   font-family: Arial, sans-serif;
+    background-image: url("green-fake-grass.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #000;
+    text-align: center;
   margin-top: 100px;
+  
 }
 
 .game-container {
