@@ -1,28 +1,18 @@
 # JavaScript Course Assignments
 
-This repository contains solutions to three JavaScript assignments, focusing on fundamental concepts and DOM manipulation.
+This repository contains solutions to JavaScript assignments based on the [freeCodeCamp JavaScript Course](https://www.youtube.com/watch?v=jS4aFq5-91M&t=9315s). Each assignment focuses on fundamental concepts and DOM manipulation.
+
+**Used**: HTML, CSS, JavaScript
 
 ## 📁 Assignments
 
 ### 1. Subway Passenger Counter
 
-- **Description**: A web application that allows users to count passengers boarding and exiting a subway train.
-- **Features**:
-  - Increment and decrement passenger count.
-  - Reset functionality.
-  - Real-time display updates.
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Live Demo**: [View Here](https://amroadnan22.github.io/JavaScript-Course/The first assignment/Subway Passenger Counter.html)
+- A web application that allows users to count passengers boarding and exiting a subway train.
 
-### 2. Simple Calculator
+### 2. Blackjack Game
 
-- **Description**: A basic calculator capable of performing arithmetic operations like addition, subtraction, multiplication, and division.
-- **Features**:
-  - Responsive button inputs.
-  - Clear and delete functionalities.
-  - Error handling for invalid operations.
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Live Demo**: [View Here](https://amroadnan22.github.io/JavaScript-Course/The second assignment/Blackjack.html)
+- A simple Blackjack game where the player can draw cards to reach a sum close to 21 without exceeding it.
 
 ## 🚀 Getting Started
 
