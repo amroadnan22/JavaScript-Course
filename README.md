@@ -16,7 +16,7 @@ This repository contains solutions to JavaScript assignments based on the [freeC
 
 ### 3. Chrome Extension - Link Saver
 
-✅ How to Use 
+✅ How to Use the Extension
 - Save these files in a folder.
 
 - Open Chrome → chrome://extensions/ → Enable Developer Mode.
