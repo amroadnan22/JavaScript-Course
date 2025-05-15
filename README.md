@@ -16,14 +16,14 @@ This repository contains solutions to JavaScript assignments based on the [freeC
 
 ### 3. Chrome Extension - Link Saver
 
-** ✅ How to Use **
+- ✅ How to Use 
 - Save these files in a folder.
 
 - Open Chrome → chrome://extensions/ → Enable Developer Mode.
 
 - Click “Load unpacked” → Select your folder.
 
-Click the extension icon → Try saving a link or the current tab.
+- Click the extension icon → Try saving a link or the current tab.
 
 ## 🚀 Getting Started
 
