@@ -14,6 +14,17 @@ This repository contains solutions to JavaScript assignments based on the [freeC
 
 - A simple Blackjack game where the player can draw cards to reach a sum close to 21 without exceeding it.
 
+### 3. Chrome Extension - Link Saver
+
+** ✅ How to Use **
+- Save these files in a folder.
+
+- Open Chrome → chrome://extensions/ → Enable Developer Mode.
+
+- Click “Load unpacked” → Select your folder.
+
+Click the extension icon → Try saving a link or the current tab.
+
 ## 🚀 Getting Started
 
 To run these projects locally:
