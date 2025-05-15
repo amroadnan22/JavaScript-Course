@@ -21,9 +21,9 @@ This repository contains solutions to JavaScript assignments based on the [freeC
 
 - Open Chrome → chrome://extensions/ → Enable Developer Mode.
 
-- Click “Load unpacked” → Select your folder.
+- Click “Load unpacked” → Select the Extension folder.
 
-- Click the extension icon → Try saving a link or the current tab.
+- Now try the extension, saving a link or the current tab.
 
 ## 🚀 Getting Started
 
